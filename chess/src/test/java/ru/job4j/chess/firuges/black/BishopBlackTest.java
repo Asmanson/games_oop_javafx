@@ -6,6 +6,7 @@ import org.junit.Test;
 import ru.job4j.chess.firuges.Cell;
 
 public class BishopBlackTest {
+
     @Test
     public void whenPositionTest() {
         Cell cell = Cell.F8;
